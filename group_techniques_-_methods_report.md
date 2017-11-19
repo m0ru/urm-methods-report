@@ -59,12 +59,30 @@ ich schreibs auch für meine peers :P
 
 
 <!--
+@ FGroups:
 
 The Use and Misuse of Focus Groups
 
 https://www.nngroup.com/articles/focus-groups/
 
 not for behaviour, usability, etc but to discover what users want.
+
+
+
+
+
+wikipedia mentions them being used to test effectiveness of propaganda during WWII by sociologist R.K.Merton the "father of the focus groups". term coined by ernest dichter. before "focused interviews" / "group depth interviews" / 
+
+
+
+<http://blog.qsample.com/freud-and-the-intriguing-origins-of-the-focus-group/>: 
+
+* Robert Merton in 1946 at the US Bureau of Applied Social Research at Columbia University. studies on effects of radio broadcasts, army training and morale films (and thus effectiveness of propaganda). "group studies"
+* viennese psychologist / marketer ernest dichter. studied under freud. " people’s shopping cravings were hidden like an iceberg below an ocean of the subconscious. Only through interaction and insight could a researcher decipher the true longing and concerns of consumers;" + "sexual cravings, parent issues, archetypical social fears, etc". "let people talk and read between lines what they really mean". focus groups as method of preference/choice. called it "motivational research". recommended body proportions of barbie. "soul" (branding) of product.
+* fell out of favour in 60s for quantitative, computer-friendly methods. also decline of freudianism.
+* comeback as qualitative market research.
+* fgroups can be done online by now
+
 
 
 
