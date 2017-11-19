@@ -21,12 +21,6 @@ Note: You can deviate from this structure as long as all relevant points are dis
 
 
 
-ich schreibs auch für meine peers :P
- also hab beschlossen der sinn davon ist
- leuten ein gefühl dafür zu geben wann sie mehr papers lesen sollten
- aka wann die methode hilfreich ist, was es für skills braucht, whatever
- mit einem sehr deutlichen "seids keine doofen zahlenfetischisten" unterton
- kontext der entstehung ist bei mir auch sehr wichtig, das ist bei "group methods" vielleicht bissi schwierig :P
 
 
  unrelated: emejulu & mcgregor toward a radical digital citizenship
@@ -49,6 +43,33 @@ this is a [link to ref][reftest]
 
 see asdf[^foo] or jkl^[asdfasfd]
 [^foo]: bar
+
+
+
+ich schreibs auch für meine peers :P
+ also hab beschlossen der sinn davon ist
+ leuten ein gefühl dafür zu geben wann sie mehr papers lesen sollten
+ aka wann die methode hilfreich ist, was es für skills braucht, whatever
+ mit einem sehr deutlichen "seids keine doofen zahlenfetischisten" unterton
+ kontext der entstehung ist bei mir auch sehr wichtig, das ist bei "group methods" vielleicht bissi schwierig :P
+
+
+-->
+
+
+
+<!--
+
+The Use and Misuse of Focus Groups
+
+https://www.nngroup.com/articles/focus-groups/
+
+not for behaviour, usability, etc but to discover what users want.
+
+
+
+{not from ref}: discover internal worlds, social dynamics, remember more together
+
 -->
 
 
