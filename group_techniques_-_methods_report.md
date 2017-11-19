@@ -57,6 +57,13 @@ ich schreibs auch für meine peers :P
 -->
 
 
+<!--
+Group Techniques in general:
+
+{TODO} did they influence each other and if so how?
+
+-->
+
 
 <!--
 @ FGroups:
@@ -84,7 +91,7 @@ wikipedia mentions them being used to test effectiveness of propaganda during WW
 * fgroups can be done online by now
 
 
-
+{TODO}: how where they geared towards propaganda-studies? how would early group studies / group depth interviews look like? what were the design decisions?
 
 {not from ref}: discover internal worlds, social dynamics, remember more together
 
