@@ -176,76 +176,45 @@ understand the outcomes can be recorded in notes or posters and later be analyze
 
 [![sessionplan of barcamp graz 2017](figures/barcamp_whiteboard.jpg){ height=200px }](http://barcamp-graz.at/2017/04/so-schaut-der-sessionplan-vom-ersten-barcamp-tag-aus/)
 
-<!-- 
+Barcamps are so-called "unconference", i.e. they're a critique and subversion of frontal-presentation-, pre-planned-agenda-conferences by allowing people to come up with their own (usually very interactive) sessions every morning^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] of the conference. The name is a nudge towards the invite-only [Foo-Camp](https://en.wikipedia.org/wiki/Foo_Camp) first organised by the hacker Tim O'Reilly to utilize vacant office space he had access to. Bar-Camps take their methodology from
+Foo-Camps but are accessible to the public.
 
-## Introduction
-### What is the core idea?  
+The first session in the morning is people writing down sessions they want to run. These slips of paper are then put on a room- and time-slot on a session-planning board (see photo). If there's enough rooms, they can also be assigned specialised topics (as in the case of the photo of the BarCamp Graz 2017^[blog on barcamp graz 2017: <http://barcamp-graz.at/blog/>] session plan above).
 
-unconference. reaction/critique/subversion of large conferences with fixed session plan and minimal interactivity
+There's also the possibility to combine this barcamp-mode with a regular by e.g. having a fixed track / fixed slots by pre-arranged speakers in paralell or interspersed with barcamp session (as is the case for the Viennese UxCamps)
 
-can have overarching themes (uxcamp, suggested tracks in barcamp graz) but otherwise is rather free
+Barcamps have a strong contribution, e.g. the rules for the BarCamp Graz contain among others: "if this is your first barcamp, you have to hold a session."
 
-strong sense of contribution. e.g. "if this is your first barcamp, you have to hold a session."
+Sessions can be basically anything that people will show up. E.g. at the aforementioned BarCamp we there was a ground training and a board-games session, as well as several practical workshops, many discussion groups and a few presentations. 
 
-large numbers of people (it's an (un)conference). individual session vary in size depending on style and number of people interested in it.
+As it's an (un)conference format, it's only suited for larger numbers of people and requires extensive logistics around rooms, catering, evening events, registration, etc.
 
-
-### Explain the origins of the method, who proposed it? 
-
-was open-to-public alternative to invitation-only [foocamp](https://en.wikipedia.org/wiki/Foo_Camp) hosted by the hackerTim O'Reilly that already had a similar format and arose as an idea to use vacant office space in 2003 (and that also had a foo bar for drinks).
-
-### Are there different flavours or variants? 
-
-e.g. hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton session plan and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
-
-### In which paradigm does this method operate? 
-
-critical theory?
-is a critique / method aimed at breaking up rigid conference structures. can be used to discuss issues / make action plans in different time-slots. about knw and experience transfer between particpants.
-
-### What are the most relevant theories?  
-
-?
-
-##  Use: 
-### Explain when to use it and how. 
-
-as it's an (un)conference format you need to have at least one, ideally several rooms (with different, rearrangable seating arrangments and ambiences suited for different session-types), (probably) registration and ideally catering, after hours activities, etc
-
-planning session^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] every morning. people write topics of sessions on pieces of paper, and e.g. assign them to time slots and rooms on a (moveable) corkboard = physical session plan. usually there's also digital variant for ease of access if you're somewhere else in the building (then again the physical thing is good place to get into conversations with people)
-
-sessions can be anything, e.g. talks, discussions, hands-on workshops, leisure time (barcamp graz 2017 had a floor excercise and a board-games session)
-
-good to meet people from all possible (sub-)fields (related to the main field if any; e.g. *ux*camp vs completely open @ graz)
-
-individual session can be used by participants as plattform to get and give feedback / discussion of projects/issues they're researching in a way similar to any of the other group techniques. it's more about equal sharing and contributing though.
-
-### What data does it produce?  
-
-not intended as data collection method but as forum
-
-audio-/video-recordings (unusual), transcripts, notes, posters (rare but possible), tweets, follow-up contacts,... (especially if running a discussion 
+The main take-away usually is in the form of contacts, personal knowledge gained as well as results of any sessions that can be anything from notes, recordings, posters up to technical prototypes.
 
 
-more knw for participants
+# Open Space (Technology)
 
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+[![open space plenary circle](figures/open_space_plenum.jpg){ height=200px }](https://en.wikipedia.org/wiki/File:NASA_Open_Space_2_Innovate.jpg)
 
-see when and how
+Open Spaces are a very detailed method to organize discussions in larger groups (usually towards an action plan). Chairs are arranged in a large circle (the plenum/"Opening Circle"). Mainly during the first 30-90 minutes people (called "birds") can suggest sub-issues/-topics (that are then posted to a bulletin board in the center) and that are then discussed in their local area of the larger circle or a breakaway circle (their "nests"). They're responsible for kicking off the local discussion, taking notes and reporting back to the
+plenum/"Closing Circle". Other can move around freely (and are called "bees" if they stick somewhere or "butterflies" if they move around constantly), thus transporting ideas between the sub-groups. The entire process is managed by a moderator called a "facilitator" that should be "present but invisible", i.e. intervene as little as possible.
 
-General Challenges (from slides):
+The resulting notes are then compiled as proceedings and send to all participants.
 
-* Logistics - more people, more constraints 
-* Managing Space 
-* Moderation
+Guiding principles:
 
-## Example
+* Whoever comes is the right people 
+* Whenever it starts is the right time 
+* Wherever it is, is the right place 
+* Whatever happens is the only thing that could have, be prepared to be surprised! 
+* When it's over, it's over (within this session) 
 
-Provide a short example from the literature 
+Owen's Law of two feet: "If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else."
 
-[blog on barcamp graz 2017](http://barcamp-graz.at/blog/)
+The method was initially motivated by the overhead of organizing a conference on "managmental/organisational restructional" with the idea to let people organize their own conference.
 
--->
+**References:**
+
 # Open Space (Technology)
 
 [![open space plenary circle](figures/open_space_plenum.jpg){ height=200px }](https://en.wikipedia.org/wiki/File:NASA_Open_Space_2_Innovate.jpg)
