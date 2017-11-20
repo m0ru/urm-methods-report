@@ -155,6 +155,8 @@ This method works for groups of medium (15+) to very large sizes (up to several 
 
 The host's reports (potentially recorded), any collectively agreed outcome/action and the drawing and writing on the tables can later be used for analysis. However the former one's as well as the intrinsic personal gains from the discssions for people participating in the process are an end by and in themselves in my opinion.
 
+Note that a very important part of hosting a world cafe is making sure the ambience is inviting, relaxing and casual to make people as comfortable as they'd be in an actual cafe (hence the name)
+
 Historically the method resulted from a 1995 meeting of business persons and academics at the home of Juanita Brown and David Isaacs in California. Their plan for large-circle meeting was disrupted by rain and they split up to tables that accidentally had makeshift tablecloths they could write/draw on. Thus the method was discovered/invented.
 
 **References:**
