@@ -68,10 +68,20 @@ Group Techniques in general:
 <!--
 @ FGroups:
 
+Disclaimer: I've been being sick for the last two days (and still am) and pretty overworked before that with other courses, wage-labor and critical tasks in side-projects, which is also the reason why I'd broken down and become sick in the first place. As such this report has been written while exhausted and over the span of a few hours and suffered accordingly in quality. :|  The largest parts of this report will be from my personal experience in participating in these formats  with only a few references (of suboptimal quality) as I haven't had the time to
+do proper literature research for the six <!-- TODO!!! correct if less --> methods described below. This isn't intended as an excuse, but as a fair word of warning (don't trust this report as a source too much) and as a bit of contextual information so as to not leave you wondering "what the hell was up with this author?!" ^^
 The Use and Misuse of Focus Groups
 
+With that out of the way and without further ado: Group Techniques.  
+As this is more a category of loosely connected methods formulated for very different reaons in different situations, I'll go over <!--TODO (some of) --> the ones mentioned in the lecture slides one by one and then try to point out connections and similarities in the discussion section <!-- TODO!!!! did i actually do that? -->. The methods are as follows:
 https://www.nngroup.com/articles/focus-groups/
 
+* Focus Groups 
+* Fishbowl 
+* Bar Camp 
+* World Cafe 
+* Breakout Sessions 
+* Open Space (Technology)
 not for behaviour, usability, etc but to discover what users want.
 
 
