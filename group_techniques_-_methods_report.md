@@ -290,7 +290,6 @@ Provide a short example from the literature
 
 -->
 
-# References
 
 <!-- TODO -->
 
