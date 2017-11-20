@@ -86,110 +86,34 @@ As this is more a category of loosely connected methods formulated for very diff
 
 [![focus group](figures/focus_group.jpg){ height=200px }](https://commons.wikimedia.org/wiki/File:Focus_Groups,_National_Network_Meetings,_GINKS_IMG_3920_\(5348319263\).jpg)
 
+The idea is to recruit a small group (e.g. 6-12) of people from the target demographic/roles, usually in a lab setting, give them a question and let them discuss it with only minimal moderating. Alternatively researchers can give them an exercise to follow, e.g. role-playing, drawing, or ranking, sorting, grouping and/or collaging items, text snippets and pictures. Usually the sessions are audio/video-recorded (which suggests the lab setting) and notes are taken by the moderator or a seperate
+observer. All of this resulting data can later be analyzed and (as most group methods) will inform about memories  of experiences (colored by the recall process however), mental models, lingo, and in particular and contrast to single-person interviews: about social dynamics in the group. 
 
-<!-- 
-<https://www.nngroup.com/articles/focus-groups/>
+Note, that some of the former only come up due to the presence of multiple people which remind each other about things they wouldn't have thought of in a single-person interview; that are collective memory. The social (power) dynamic between
+participants and the effect of an intimidating lab setting (presence of recording equip and authoritative researcher) might also mean that some statements are self-censored and/or some participants might not get to speak much. 
 
-## Introduction
+<!-- TODO move to general section -->
+Due to the setup it's also not suited to directly study dynamics in larger groups on it's own (the other group methods, e.g. barcamps and world-cafes are better suited for those sizes). It's also inherently qualitative and best suited for studies in the constructivist (and potentiall critical theory) paradigma(s).
 
-### What is the core idea?  
-
-get a bunch of people together (classically in a lab), give them a question, let them talk with only minimal moderating. alternatively give them an exercise to follow (e.g. ranking, role-playing, drawing, sorting, grouping, collaging, of text snippets and pictures) takes notes/audio/video for later analysis.
-
-The Use and Misuse of Focus Groups https://www.nngroup.com/articles/focus-groups/
-not for behaviour, usability, etc but to discover what users want.
-
-small groups
+Note, that with some reduction in quality, these can also be held online using video-chat and online collaboration tools (for exercises)
 
 
-
-### Explain the origins of the method, who proposed it? 
-
-wikipedia mentions them being used to test effectiveness of propaganda during WWII by sociologist R.K.Merton the "father of the focus groups". term coined by ernest dichter. before "focused interviews" / "group depth interviews" / 
-
-<http://blog.qsample.com/freud-and-the-intriguing-origins-of-the-focus-group/>: 
-
-* Robert Merton in 1946 at the US Bureau of Applied Social Research at Columbia University. studies on effects of radio broadcasts, army training and morale films (and thus effectiveness of propaganda). "group studies"
-* viennese psychologist / marketer ernest dichter. studied under freud. " people’s shopping cravings were hidden like an iceberg below an ocean of the subconscious. Only through interaction and insight could a researcher decipher the true longing and concerns of consumers;" + "sexual cravings, parent issues, archetypical social fears, etc". "let people talk and read between lines what they really mean". focus groups as method of preference/choice. called it "motivational research". recommended body proportions of barbie. "soul" (branding) of product.
-* fell out of favour in 60s for quantitative, computer-friendly methods. also decline of freudianism.
-* comeback as qualitative market research.
-* fgroups can be done online by now at the cost of a strong bias in who can easily participate and loss of interaction quality. f2f still best.
-
-{TODO}: how where they geared towards propaganda-studies? how would early group studies / group depth interviews look like? what were the design decisions?
-
-### Are there different flavours or variants? 
-
-[wikipedia](https://en.wikipedia.org/wiki/Focus_group#Types) mentions:
-
-
-* Two-way focus group - one focus group watches another focus group and discusses the observed interactions and conclusion
-* Dual moderator focus group - one moderator ensures the session progresses smoothly, while another ensures that all the topics are covered
-* Dueling moderator focus group (fencing-moderator) - two moderators deliberately take opposite sides on the issue under discussion
-* Respondent moderator focus group - one and only one of the respondents is asked to act as the moderator temporarily
-* Client participant focus groups - one or more client representatives participate in the discussion, either covertly or overtly
-* Mini focus groups - groups are composed of four or five members rather than 6 to 12
-* Teleconference focus groups - telephone network is used
-* Creativity groups
-* Band obsessive group
-* Online focus groups - computers connected via the internet are used
-
-it also mentions a lot of [exercises](https://en.wikipedia.org/wiki/Focus_group#Exercises) groups can conduct.
-
-### In which paradigm does this method operate? 
-
-i'd say constructivist. as it tries to capture peoples experiences/mental models respectively the ones constructed in the focusgroup
-
-### What are the most relevant theories?  
-
-huh?
-
-##  Use: 
-### Explain when to use it and how. 
-
-{not from ref}: discover internal worlds, social dynamics, remember more together
-
-when not to use it: if you want to study behaviour or want to run large, quantitative experiments.
-
-### What data does it produce?  
-
-audio-/video-recordings, transcripts, notes, posters/collages, ?
-
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
-
-compared to non-group techniques: 
-
-* can capture social dynamics. 
-* social dynamics can mean that some group members dominate the discussion or that some things aren't shared before others.
-* common lab setting with recording equipment and authoritative researcher might inhibit people further
-* collective memory / recall. people reminding each other of other things they know
-
-compared to other group techniques:
-
-{ TODO }
-* some are more conference/meeting formats for transfering knw / making an action plan (?)
-
-compared to quantitative methods and observations: get insight into internal models
+<!-- TODO
+move to general section
 
 General Challenges (from slides):
 
 * Logistics - more people, more constraints 
 * Managing Space 
 * Moderation
-
-## Example
-
-Provide a short example from the literature 
-
-marketing: shape of barbie, cars,...
-
-{TODO sthg more modern?}
-
-@ FGroups:
-
-
-
-
 -->
+
+The method, then named "Group Studies" was discovered/invented in 1946 by Robert Merton who was studying the effects of propaganda (in particular radio broadcasts, army training and morale films) at the US Bureau of Applied Social Research at the Columbia University. It was later picked up and further developed by the Viennese psychologist and marketer Ernest Dichter who was heavily influenced and had studied under Sigmund Freud, who before his death also gave it the name "Focus
+Groups". Dichter's goal was to study the subconscious cravings influencing buying decisions by reading between the lines of what people talked about in the focus groups. Campaigns he worked on included for example the Chrysler Plymouth convertible (with the result to market it as "home product" to wifes so they wouldn't stop their husbands from buying a cabriolet) and the Barbie Doll (that should give girls a future self to associate with, with the very Freudian twist that
+it's all about sex and sex appeal). The method fell out of favor with the rise of computer based analysis and decline of Freudianism, but later rediscovered and is widely used in qualitative market research. (Source: <http://blog.qsample.com/freud-and-the-intriguing-origins-of-the-focus-group/>)
+
+
+
 
 # Fishbowl 
 
