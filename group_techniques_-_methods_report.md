@@ -216,7 +216,14 @@ medium sized groups. walking to and joining the inner circle needs to stay feasi
 
 ### Are there different flavours or variants? 
 
-{ TODO }
+<https://en.wikipedia.org/wiki/Fishbowl_(conversation)>
+
+open fishbowl (the one described above)
+only two chairs, audience member taps should of speaker to replace them
+full exchange of inner circle after set intervalls/when discussion runs out
+
+time limits 
+intervalls at which outer circle is asked for input instead of inner circle
 
 ### In which paradigm does this method operate? 
 
