@@ -391,12 +391,11 @@ large numbers of people (it's an (un)conference). individual session vary in siz
 
 ### Explain the origins of the method, who proposed it? 
 
-{TODO}
+was open-to-public alternative to invitation-only [foocamp](https://en.wikipedia.org/wiki/Foo_Camp) hosted by the hackerTim O'Reilly that already had a similar format and arose as an idea to use vacant office space in 2003 (and that also had a foo bar for drinks).
 
 ### Are there different flavours or variants? 
 
-{TODO}
-hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton session plan and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
+e.g. hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton session plan and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
 
 ### In which paradigm does this method operate? 
 
