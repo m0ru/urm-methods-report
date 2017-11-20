@@ -173,6 +173,9 @@ marketing: shape of barbie, cars,...
 -->
 
 # Fishbowl 
+
+[![fishbowl seating arrangment -- inner and outer circles](figures/fishbowl_diagram.png){  height=300px }](https://commons.wikimedia.org/wiki/File:Fishbowl_diagram_172.png)
+
 <!-- 
 
 ## Introduction
@@ -184,6 +187,8 @@ smaller circle of chairs for discutants in center (e.g. 5-8), larger circle arou
 also has the effect that people have time to think about points they want to make before / while moving into the inner circle. 
 
 also discussing in really large groups / anonymous masses rarely works well (from my own experience). something about the social dynamic. fishbowl keeps inner circle small.
+
+medium sized groups. walking to and joining the inner circle needs to stay feasible.
 
 
 ### Explain the origins of the method, who proposed it? 
