@@ -172,30 +172,69 @@ marketing: shape of barbie, cars,...
 
 -->
 
+# Fishbowl 
+<!-- 
 
-# Introduction 
+## Introduction
+### What is the core idea?  
+
+discussion structure for larger groups by having a few highly visible, constantly rotating people discussing in the inner circle of chairs.
+
+smaller circle of chairs for discutants in center (e.g. 5-8), larger circle around that. usually an expert starts in the center to kick off the discussion on a given topic. people can switch to a free chair in the inner circle when they want to say something. once they've replied to any follow-up questions or -discussion-strands they move back to the outer circle (same goes for the initial expert). This allows people to sit back and observe when they don't want to talk at the moment. It
+also has the effect that people have time to think about points they want to make before / while moving into the inner circle. 
+
+also discussing in really large groups / anonymous masses rarely works well (from my own experience). something about the social dynamic. fishbowl keeps inner circle small.
 
 
-<!--
-1.  Introduction: 
+### Explain the origins of the method, who proposed it? 
 
-##? What is the core idea?  
-##? Explain the origins of the method, who proposed it? 
-##? Are there different flavours or variants? 
-##? In which paradigm does this method operate? 
-##? What are the most relevant theories?  
+{ TODO }
 
+### Are there different flavours or variants? 
 
-Talk/literature research about group methods in general and each of the following in particular (e.g. core, origin,...). actually a group of methods:
+{ TODO }
 
-* Focus Groups 
-  * <https://www.nngroup.com/articles/focus-groups/>
-* Fishbowl (inner circle of discutants)
-* Bar Camp 
-* World Cafe (split into tables on subtopics. cycle around?)
-  * <http://www.worldcafe.eu/en/index.html>
-* Breakout Sessions 
-* Open Space
+### In which paradigm does this method operate? 
+
+constructivist if used similar to a focus group to elaborate on personal experiences and discuss mental models but can also be critical theory in the sense that an action plan is formulated (even though world cafe/breakaway/barcamp/openspace+reporting probably deals better as finer points/sub-topics can be better discussed and more people have a chance to contribute due to the smaller effective group sizes / less anxiety about speaking in front of larger groups)
+
+### What are the most relevant theories?  
+
+huh?
+
+##  Use: 
+### Explain when to use it and how. 
+
+how: see/merge with idea
+
+when: 
+
+* want to tap knowledge/points of view/mental models of large group on an issue while giving people a place to retreat/just watch
+* collective memory (see focus groups)
+
+when not: if you want to have every persons opinion in the room. some people won't talk (and that's 'k)
+
+also see focus groups 
+
+{TODO 
+
+### What data does it produce?  
+
+audio-/video-recordings, transcripts, notes
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+General Challenges (from slides):
+
+* Logistics - more people, more constraints 
+* Managing Space 
+* Moderation
+
+## Example
+
+{TODO} Provide a short example from the literature 
+
+fishbowl we did on self-driving cars? the one(s) at klausur?
 
 -->
 
