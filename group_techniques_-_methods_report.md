@@ -432,6 +432,8 @@ Provide a short example from the literature
 
 <https://en.wikipedia.org/wiki/Open_Space_Technology>
 
+<http://www.chriscorrigan.com/openspace/whatisos.html>
+
 let people organize own conference/meeting with very fluent seating setup (main plenary circle and many breakaway circles) and participants moving between discussion groups at any point.
 
 minimal managment
