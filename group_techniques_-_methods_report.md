@@ -93,7 +93,7 @@ Note, that some of the former only come up due to the presence of multiple peopl
 participants and the effect of an intimidating lab setting (presence of recording equip and authoritative researcher) might also mean that some statements are self-censored and/or some participants might not get to speak much. 
 
 <!-- TODO move to general section -->
-Due to the setup it's also not suited to directly study dynamics in larger groups on it's own (the other group methods, e.g. barcamps and world-cafes are better suited for those sizes). It's also inherently qualitative and best suited for studies in the constructivist (and potentiall critical theory) paradigma(s).
+Due to the setup it's also not suited to directly study dynamics in larger groups on it's own (the other group methods, e.g. barcamps and world-cafes are better suited for those sizes). It's also inherently qualitative and best suited for studies in the constructivist (and potentiall critical theory) paradigma(s) as most of the group methods -- though some lean more towards generating action plans that I'd argue to be in the realms of critical theory (and action theory)).
 
 Note, that with some reduction in quality, these can also be held online using video-chat and online collaboration tools (for exercises)
 
