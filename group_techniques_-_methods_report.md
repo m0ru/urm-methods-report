@@ -310,15 +310,38 @@ world cafe at EYA?
 
 -->
 
-# Advantages
-<!--
-3.  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+# Breakout Sessions 
+<!-- 
+<https://www.nngroup.com/articles/focus-groups/>
 
-Challenges (from slides):
+## Introduction
+### What is the core idea?  
+
+break up regular conferences by having discussions in smaller groups on sub-topics 
+
+### Explain the origins of the method, who proposed it? 
+### Are there different flavours or variants? 
+### In which paradigm does this method operate? 
+### What are the most relevant theories?  
+
+##  Use: 
+### Explain when to use it and how. 
+### What data does it produce?  
+
+audio-/video-recordings, transcripts, notes, posters, ?
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+General Challenges (from slides):
 
 * Logistics - more people, more constraints 
 * Managing Space 
 * Moderation
+
+## Example
+
+Provide a short example from the literature 
+
 -->
 
 # Bar Camp 
