@@ -97,6 +97,8 @@ get a bunch of people together (classically in a lab), give them a question, let
 The Use and Misuse of Focus Groups https://www.nngroup.com/articles/focus-groups/
 not for behaviour, usability, etc but to discover what users want.
 
+small groups
+
 
 
 ### Explain the origins of the method, who proposed it? 
