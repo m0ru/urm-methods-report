@@ -94,7 +94,7 @@ As this is more a category of loosely connected methods formulated for very diff
 
 ### What is the core idea?  
 
-get a bunch of people together (classically in a lab), give them a question, let them talk with only minimal moderating. takes notes/audio/video for later analysis.
+get a bunch of people together (classically in a lab), give them a question, let them talk with only minimal moderating. alternatively give them an exercise to follow (e.g. ranking, role-playing, drawing, sorting, grouping, collaging, of text snippets and pictures) takes notes/audio/video for later analysis.
 
 The Use and Misuse of Focus Groups https://www.nngroup.com/articles/focus-groups/
 not for behaviour, usability, etc but to discover what users want.
@@ -119,7 +119,21 @@ wikipedia mentions them being used to test effectiveness of propaganda during WW
 
 ### Are there different flavours or variants? 
 
-{i assume merton's and dichters variants differed. how did they change to today?}
+[wikipedia](https://en.wikipedia.org/wiki/Focus_group#Types) mentions:
+
+
+* Two-way focus group - one focus group watches another focus group and discusses the observed interactions and conclusion
+* Dual moderator focus group - one moderator ensures the session progresses smoothly, while another ensures that all the topics are covered
+* Dueling moderator focus group (fencing-moderator) - two moderators deliberately take opposite sides on the issue under discussion
+* Respondent moderator focus group - one and only one of the respondents is asked to act as the moderator temporarily
+* Client participant focus groups - one or more client representatives participate in the discussion, either covertly or overtly
+* Mini focus groups - groups are composed of four or five members rather than 6 to 12
+* Teleconference focus groups - telephone network is used
+* Creativity groups
+* Band obsessive group
+* Online focus groups - computers connected via the internet are used
+
+it also mentions a lot of [exercises](https://en.wikipedia.org/wiki/Focus_group#Exercises) groups can conduct.
 
 ### In which paradigm does this method operate? 
 
@@ -138,7 +152,7 @@ when not to use it: if you want to study behaviour or want to run large, quantit
 
 ### What data does it produce?  
 
-audio-/video-recordings, transcripts, notes, posters, ?
+audio-/video-recordings, transcripts, notes, posters/collages, ?
 
 ##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
 
@@ -146,6 +160,7 @@ compared to non-group techniques:
 
 * can capture social dynamics. 
 * social dynamics can mean that some group members dominate the discussion or that some things aren't shared before others.
+* common lab setting with recording equipment and authoritative researcher might inhibit people further
 * collective memory / recall. people reminding each other of other things they know
 
 compared to other group techniques:
