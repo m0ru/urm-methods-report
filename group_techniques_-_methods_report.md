@@ -163,38 +163,9 @@ Historically the method resulted from a 1995 meeting of business persons and aca
 
 
 # Breakout Sessions 
-<!-- 
-<https://www.nngroup.com/articles/focus-groups/>
 
-## Introduction
-### What is the core idea?  
-
-break up regular conferences by having discussions in smaller groups on sub-topics 
-
-### Explain the origins of the method, who proposed it? 
-### Are there different flavours or variants? 
-### In which paradigm does this method operate? 
-### What are the most relevant theories?  
-
-##  Use: 
-### Explain when to use it and how. 
-### What data does it produce?  
-
-audio-/video-recordings, transcripts, notes, posters, ?
-
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
-
-General Challenges (from slides):
-
-* Logistics - more people, more constraints 
-* Managing Space 
-* Moderation
-
-## Example
-
-Provide a short example from the literature 
-
--->
+I didn't get around to research these to much, but from what I gather the idea is to brake up the agenda of full-frontal conferences a bit, by splitting the audience into smaller groups that each interactively, discuss on a specialised topic and then report back to the larger plneum. The smaller groups better facilitate discussion, provide a less threatening setting to speak up and allow specialising on a sub-topic that'd be too specific for the larger group. As far as I
+understand the outcomes can be recorded in notes or posters and later be analyzed.
 
 # Bar Camp 
 
