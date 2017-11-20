@@ -245,14 +245,69 @@ fishbowl we did on self-driving cars? the one(s) at klausur?
 
 -->
 
-# Use
-<!--
-2.  Use: 
+# World Cafe 
 
-##? Explain when to use it and how. 
-##? What data does it produce?  
+[![world cafe principles](figures/world-cafe-puzzle.jpg){ height=200px }](http://rhizome.coop/facilitating-meetings-middle-game/) 
+[![world cafe tables](figures/world-cafe-tables.png){ height=200px }](https://bcpslis.pbworks.com/w/page/107744660/World%20Cafe%20Model)
 
-audio-/video-recordings, transcripts, notes, posters, 
+<!-- 
+<http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/>
+<http://www.worldcafe.eu/en/index.html>
+"World Cafe Guidelines & Principles" on youtube by OurEllipses (2009/08):<https://www.youtube.com/watch?v=YrTKD8NpApY>
+
+//\[![](figures/World-Cafe-Guidelines.jpg)](http://amandafenton.com/core-methods/what-is-a-world-cafe/world-cafe-guidelines/)
+
+## Introduction
+### What is the core idea?  
+
+discuss a complicated issue, usually with the goal of coming up with an action plan. a large focus is on providing a inviting, casual, cafe-like ambience. there's multiple tables e.g. one per sub-topic, covered in paper (so they can be written upon) and a person staying there. the rest of the people switch through. the person who stayed behind gives an overview of the discussion on the table so far. the paper allows participants to leave messages in their own words and drawings.
+usually the table hosts will report back to the larger plenum at the end. there might also be an introductionary talk at the start.
+
+works at varying sizes
+
+### Explain the origins of the method, who proposed it? 
+
+{TODO}
+
+### Are there different flavours or variants? 
+
+one without reporting back (focus on discussion not outcomes)
+
+### In which paradigm does this method operate? 
+
+constructivist (understanding mental models of larger group) / critical theory (action plan)
+### What are the most relevant theories?  
+
+##  Use: 
+### Explain when to use it and how. 
+### What data does it produce?  
+
+recordings of reporting back (if any), notes on tables
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+very inclusive due to small table sizes and effort made to set ambience (if done right; easy to do wrong)
+
+good for complex issues: small size makes discussions productive but due to rotation knw of entire crowd is tapped
+
+good deliberate for making collective action plans in a larger group
+
+same as all group methods: collaborative knw, etc
+
+important to set ambience and have diverse crowd!
+
+General Challenges (from slides):
+
+* Logistics - more people, more constraints 
+* Managing Space 
+* Moderation
+
+## Example
+
+Provide a short example from the literature 
+
+world cafe at EYA?
+
 -->
 
 # Advantages
