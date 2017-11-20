@@ -265,11 +265,13 @@ Challenges (from slides):
 ## Introduction
 ### What is the core idea?  
 
-unconference. reaction/critique/subversion of large conferences with fixed agenda and minimal interactivity
+unconference. reaction/critique/subversion of large conferences with fixed session plan and minimal interactivity
 
 can have overarching themes (uxcamp, suggested tracks in barcamp graz) but otherwise is rather free
 
-strong sense of contribution. e.g. "if this is your first barcamp, you have to talk."
+strong sense of contribution. e.g. "if this is your first barcamp, you have to hold a session."
+
+large numbers of people (it's an (un)conference). individual session vary in size depending on style and number of people interested in it.
 
 
 ### Explain the origins of the method, who proposed it? 
@@ -279,7 +281,7 @@ strong sense of contribution. e.g. "if this is your first barcamp, you have to t
 ### Are there different flavours or variants? 
 
 {TODO}
-hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton agenda and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
+hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton session plan and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
 
 ### In which paradigm does this method operate? 
 
@@ -295,7 +297,7 @@ is a critique / method aimed at breaking up rigid conference structures. can be 
 
 as it's an (un)conference format you need to have at least one, ideally several rooms (with different, rearrangable seating arrangments and ambiences suited for different session-types), (probably) registration and ideally catering, after hours activities, etc
 
-planning session^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] every morning. people write topics of sessions on pieces of paper, and e.g. assign them to time slots and rooms on a (moveable) corkboard = physical agenda. usually there's also digital variant for ease of access if you're somewhere else in the building (then again the physical thing is good place to get into conversations with people)
+planning session^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] every morning. people write topics of sessions on pieces of paper, and e.g. assign them to time slots and rooms on a (moveable) corkboard = physical session plan. usually there's also digital variant for ease of access if you're somewhere else in the building (then again the physical thing is good place to get into conversations with people)
 
 ![barcamp agenda]
 sessions can be anything, e.g. talks, discussions, hands-on workshops, leisure time (barcamp graz 2017 had a floor excercise and a board-games session)
