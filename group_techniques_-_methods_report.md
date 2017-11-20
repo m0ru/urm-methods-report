@@ -66,15 +66,13 @@ Group Techniques in general:
 
 
 <!--
-@ FGroups:
+-->
 
 Disclaimer: I've been being sick for the last two days (and still am) and pretty overworked before that with other courses, wage-labor and critical tasks in side-projects, which is also the reason why I'd broken down and become sick in the first place. As such this report has been written while exhausted and over the span of a few hours and suffered accordingly in quality. :|  The largest parts of this report will be from my personal experience in participating in these formats  with only a few references (of suboptimal quality) as I haven't had the time to
 do proper literature research for the six <!-- TODO!!! correct if less --> methods described below. This isn't intended as an excuse, but as a fair word of warning (don't trust this report as a source too much) and as a bit of contextual information so as to not leave you wondering "what the hell was up with this author?!" ^^
-The Use and Misuse of Focus Groups
 
 With that out of the way and without further ado: Group Techniques.  
 As this is more a category of loosely connected methods formulated for very different reaons in different situations, I'll go over <!--TODO (some of) --> the ones mentioned in the lecture slides one by one and then try to point out connections and similarities in the discussion section <!-- TODO!!!! did i actually do that? -->. The methods are as follows:
-https://www.nngroup.com/articles/focus-groups/
 
 * Focus Groups 
 * Fishbowl 
@@ -82,15 +80,28 @@ https://www.nngroup.com/articles/focus-groups/
 * World Cafe 
 * Breakout Sessions 
 * Open Space (Technology)
+
+
+# Focus Groups 
+
+
+<!-- 
+<https://www.nngroup.com/articles/focus-groups/>
+
+## Introduction
+
+### What is the core idea?  
+
+get a bunch of people together (classically in a lab), give them a question, let them talk with only minimal moderating. takes notes/audio/video for later analysis.
+
+The Use and Misuse of Focus Groups https://www.nngroup.com/articles/focus-groups/
 not for behaviour, usability, etc but to discover what users want.
 
 
 
-
+### Explain the origins of the method, who proposed it? 
 
 wikipedia mentions them being used to test effectiveness of propaganda during WWII by sociologist R.K.Merton the "father of the focus groups". term coined by ernest dichter. before "focused interviews" / "group depth interviews" / 
-
-
 
 <http://blog.qsample.com/freud-and-the-intriguing-origins-of-the-focus-group/>: 
 
@@ -98,12 +109,66 @@ wikipedia mentions them being used to test effectiveness of propaganda during WW
 * viennese psychologist / marketer ernest dichter. studied under freud. " people’s shopping cravings were hidden like an iceberg below an ocean of the subconscious. Only through interaction and insight could a researcher decipher the true longing and concerns of consumers;" + "sexual cravings, parent issues, archetypical social fears, etc". "let people talk and read between lines what they really mean". focus groups as method of preference/choice. called it "motivational research". recommended body proportions of barbie. "soul" (branding) of product.
 * fell out of favour in 60s for quantitative, computer-friendly methods. also decline of freudianism.
 * comeback as qualitative market research.
-* fgroups can be done online by now
-
+* fgroups can be done online by now at the cost of a strong bias in who can easily participate and loss of interaction quality. f2f still best.
 
 {TODO}: how where they geared towards propaganda-studies? how would early group studies / group depth interviews look like? what were the design decisions?
 
+### Are there different flavours or variants? 
+
+{i assume merton's and dichters variants differed. how did they change to today?}
+
+### In which paradigm does this method operate? 
+
+i'd say constructivist. as it tries to capture peoples experiences/mental models respectively the ones constructed in the focusgroup
+
+### What are the most relevant theories?  
+
+huh?
+
+##  Use: 
+### Explain when to use it and how. 
+
 {not from ref}: discover internal worlds, social dynamics, remember more together
+
+when not to use it: if you want to study behaviour or want to run large, quantitative experiments.
+
+### What data does it produce?  
+
+audio-/video-recordings, transcripts, notes, posters, ?
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+compared to non-group techniques: 
+
+* can capture social dynamics. 
+* social dynamics can mean that some group members dominate the discussion or that some things aren't shared before others.
+* collective memory / recall. people reminding each other of other things they know
+
+compared to other group techniques:
+
+{ TODO }
+* some are more conference/meeting formats for transfering knw / making an action plan (?)
+
+compared to quantitative methods and observations: get insight into internal models
+
+General Challenges (from slides):
+
+* Logistics - more people, more constraints 
+* Managing Space 
+* Moderation
+
+## Example
+
+Provide a short example from the literature 
+
+marketing: shape of barbie, cars,...
+
+{TODO sthg more modern?}
+
+@ FGroups:
+
+
+
 
 -->
 
