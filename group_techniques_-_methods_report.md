@@ -291,7 +291,9 @@ works at varying sizes
 
 ### Explain the origins of the method, who proposed it? 
 
-{TODO}
+<http://www.theworldcafe.com/about-us/history/>
+
+1995 meeting of business persons and academics the home of Juanita Brown and David Isaacs in California. plan for large-circle meeting was disrupted by rain and they split up. recording insights on makeshift tablecloths.
 
 ### Are there different flavours or variants? 
 
