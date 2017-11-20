@@ -211,85 +211,14 @@ Guiding principles:
 
 Owen's Law of two feet: "If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else."
 
-The method was initially motivated by the overhead of organizing a conference on "managmental/organisational restructional" with the idea to let people organize their own conference.
+Owen^[Owen, Harrison (2008). Open Space Technology: A User's Guide (3rd ed.). Berrett-Koehler. ISBN 978-1-57675-476-4.] claims that it works well for issues that require/have high complexity, diversity, conflict (real or potential) and urgency (but badly otherwise) 
+
+The method was initially invented/discovered by Harrison Owen to deal with the overhead of organizing a conference on "managmental/organisational restructional" with the idea to let people organize their own conference. 
+
+
 
 **References:**
 
 * <https://en.wikipedia.org/wiki/Open_Space_Technology>
 * <http://www.chriscorrigan.com/openspace/whatisos.html>
-
-<!-- 
-
-## Introduction
-### What is the core idea?  
-
-
-let people organize own conference/meeting with very fluent seating setup (main plenary circle and many breakaway circles) and participants moving between discussion groups at any point.
-
-minimal managment
-
-invitation gives purpose of meeting. first 30-90 mins are about setting agenda (~barcamp). bulletin board with issues/mapping to smaller seating-circles. if you come up with a new sub-issue post a new entry there.
-
-persons who started breakouts are responsible for starting discussion there, taking notes and reporting back.
-
-notes are collected as proceedings and sent to everyone
-
-similarities to barcamp (@agenda), world-cafe (multiple discussion groups and people moving, reporting back; no paper and ambience setting per default though) and breakaway-sessions (split and then reporting back). 
-
-
-
-Roles: Bird (person starting breakaway/nest), Bee (stay with one breakaway) <-> Butterflies (people moving in between, carrying ideas across)
-
-
-### Explain the origins of the method, who proposed it? 
-
-guy {TODO} was organizing conferences on organisatorial managment. first two were classic conferences with large managment overhead. over a glass of martini had the idea to give people space and let them organize their own conference. (similar to a barcamp in that manner)
-
-the "technology" in open space technology comes from a person {TODO} speaking in front of the media. sounded more impressive. got picked up the news.
-
-clear origin in business/managment/workshop-culture
-
-
-### Are there different flavours or variants? 
-
-{TODO}
-
-
-
-### In which paradigm does this method operate? 
-
-critical theory(?) as point is to come up with whatever the particpants want to (e.g. an action plan)
-
-
-### What are the most relevant theories?  
-
-
-
-##  Use: 
-### Explain when to use it and how. 
-
-@how: see "core"
-
-when: harrison owen^[Owen, Harrison (2008). Open Space Technology: A User's Guide (3rd ed.). Berrett-Koehler. ISBN 978-1-57675-476-4.] writes it works well for issues that require/have high complexity, diversity, conflict (real or potential) and urgency. 
-
-don't use it next steps are clear, leaders/sponsors already know answers and just want to sell them, organization is preferred to be top-down by managment, etc
-
-challenge: facilitator should be present but invisible. logistics, managing space
-
-### What data does it produce?  
-
-notes/proceedings
-
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
-
-see when
-
-## Example
-
-Provide a short example from the literature 
-
--->
-
-
-<!-- TODO -->
 
