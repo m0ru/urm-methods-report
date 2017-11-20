@@ -178,7 +178,7 @@ marketing: shape of barbie, cars,...
 
 # Fishbowl 
 
-[![fishbowl seating arrangment -- inner and outer circles](figures/fishbowl_diagram.png){  height=300px }](https://commons.wikimedia.org/wiki/File:Fishbowl_diagram_172.png)
+[![fishbowl seating arrangment -- inner and outer circles](figures/fishbowl_diagram.png){  height=250px }](https://commons.wikimedia.org/wiki/File:Fishbowl_diagram_172.png)
 
 <!-- 
 
@@ -349,7 +349,7 @@ Provide a short example from the literature
 # Bar Camp 
 
 
-[![sessionplan of barcamp graz 2017](figures/barcamp_whiteboard.jpg)](http://barcamp-graz.at/2017/04/so-schaut-der-sessionplan-vom-ersten-barcamp-tag-aus/)
+[![sessionplan of barcamp graz 2017](figures/barcamp_whiteboard.jpg){ height=200px }](http://barcamp-graz.at/2017/04/so-schaut-der-sessionplan-vom-ersten-barcamp-tag-aus/)
 
 <!-- 
 
