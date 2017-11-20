@@ -397,11 +397,100 @@ Provide a short example from the literature
 [blog on barcamp graz 2017](http://barcamp-graz.at/blog/)
 
 -->
+# Open Space (Technology)
 
-# Example
-<!--
-4.  Example: Provide a short example from the literature 
+[![open space plenary circle](figures/open_space_plenum.jpg){ height=200px }](https://en.wikipedia.org/wiki/File:NASA_Open_Space_2_Innovate.jpg)
+<!-- 
+
+## Introduction
+### What is the core idea?  
+
+<https://en.wikipedia.org/wiki/Open_Space_Technology>
+
+let people organize own conference/meeting with very fluent seating setup (main plenary circle and many breakaway circles) and participants moving between discussion groups at any point.
+
+minimal managment
+
+invitation gives purpose of meeting. first 30-90 mins are about setting agenda (~barcamp). bulletin board with issues/mapping to smaller seating-circles. if you come up with a new sub-issue post a new entry there.
+
+less conferency / more something for one large room / more of a meeting format
+
+large plenary seating circle and smaller subcircles/breakout-sessions for sub-issues/topics. people can move around as they want ("marketplace" where people "shop" for ideas)
+
+full process:
+
+* Opening Circle (agenda co-creation process at the start, without the facilitator helping / synthesizing / suggesting / reducing topics)
+* Facilitator’s explanation of principles and law (calling them guidelines, invitations, whatever)
+* Multiple conversations ideally happening around the same big space, ideally several discussion sessions across time (without the facilitator helping those groups)
+* Closing Circle (comment and reflection)
+
+persons who started breakouts are responsible for starting discussion there, taking notes and reporting back.
+
+notes are collected as proceedings and sent to everyone
+
+similarities to barcamp (@agenda), world-cafe (multiple discussion groups and people moving, reporting back; no paper and ambience setting per default though) and breakaway-sessions (split and then reporting back). 
+
+
+Guiding principles:
+
+* Whoever comes is the right people 
+* Whenever it starts is the right time 
+* Wherever it is, is the right place 
+* Whatever happens is the only thing that could have, be prepared to be surprised! 
+* When it's over, it's over (within this session) 
+
+Roles: Bird (person starting breakaway/nest), Bee (stay with one breakaway) <-> Butterflies (people moving in between, carrying ideas across)
+
+Owen's Law of two feet: "If at any time during our time together you find yourself in any situation where you are neither learning nor contributing, use your two feet, go someplace else."
+
+### Explain the origins of the method, who proposed it? 
+
+guy {TODO} was organizing conferences on organisatorial managment. first two were classic conferences with large managment overhead. over a glass of martini had the idea to give people space and let them organize their own conference. (similar to a barcamp in that manner)
+
+the "technology" in open space technology comes from a person {TODO} speaking in front of the media. sounded more impressive. got picked up the news.
+
+clear origin in business/managment/workshop-culture
+
+
+### Are there different flavours or variants? 
+
+{TODO}
+
+### In which paradigm does this method operate? 
+
+critical theory(?) as point is to come up with whatever the particpants want to (e.g. an action plan)
+
+
+### What are the most relevant theories?  
+
+
+
+##  Use: 
+### Explain when to use it and how. 
+
+@how: see "core"
+
+when: harrison owen^[Owen, Harrison (2008). Open Space Technology: A User's Guide (3rd ed.). Berrett-Koehler. ISBN 978-1-57675-476-4.] writes it works well for issues that require/have high complexity, diversity, conflict (real or potential) and urgency. 
+
+don't use it next steps are clear, leaders/sponsors already know answers and just want to sell them, organization is preferred to be top-down by managment, etc
+
+challenge: facilitator should be present but invisible. logistics, managing space
+
+### What data does it produce?  
+
+notes/proceedings
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+see when
+
+## Example
+
+Provide a short example from the literature 
+
 -->
 
 # References
+
+<!-- TODO -->
 
