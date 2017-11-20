@@ -119,78 +119,26 @@ it's all about sex and sex appeal). The method fell out of favor with the rise o
 
 [![fishbowl seating arrangment -- inner and outer circles](figures/fishbowl_diagram.png){  height=250px }](https://commons.wikimedia.org/wiki/File:Fishbowl_diagram_172.png)
 
-<!-- 
+The fishbowl is a discussion structure for larger groups (see seating-arrangment figure above), where a few highly visible and constantly rotating discuss in an inner circle of (e.g. 2-6) chairs. Everybody who's not actively discussin sits in the outer circle(s).
+Usually an expert starts in the center to kick off the discussion on a given topic. People can switch to a free chair in the inner circle when they want to say something. Once they've made their point and replied to any follow-up questions or -discussion-strands they then move back to the outer circle (the same goes for the initial expert). This allows people to sit back and observe when they don't want to talk at the moment. 
+It also has the effect that people have time to think about points they want to make before and while moving into the inner circle. 
 
-## Introduction
-### What is the core idea?  
+For smaller groups the technique isn't necessary. Much larger groups should probably split into seperate fish-bowl and report any results afterwards.
 
-discussion structure for larger groups by having a few highly visible, constantly rotating people discussing in the inner circle of chairs.
+It suffers from similar issues about dominant discutants as focus groups with the intensification that the crowd to speak in front of is bigger and there's a relatively space in the outer circle where one doesn't have to talk, thus some person's views will not be reflected in the discussion. To lessen this effect and to ensure people vacate theirs seats at the right time an active moderator will be required. Compared to focus groups, however, it also profits from similar positive effects, e.g. collective memory and has the potential to combine / reflect even more views due to the group size.
 
-smaller circle of chairs for discutants in center (e.g. 5-8), larger circle around that. usually an expert starts in the center to kick off the discussion on a given topic. people can switch to a free chair in the inner circle when they want to say something. once they've replied to any follow-up questions or -discussion-strands they move back to the outer circle (same goes for the initial expert). This allows people to sit back and observe when they don't want to talk at the moment. It
-also has the effect that people have time to think about points they want to make before / while moving into the inner circle. 
+In terms of outcomes, collective documents and plans of action can be aggreed upon. Additionally anyone might make notes and researchers might record the discussion.
 
-also discussing in really large groups / anonymous masses rarely works well (from my own experience). something about the social dynamic. fishbowl keeps inner circle small.
-
-medium sized groups. walking to and joining the inner circle needs to stay feasible.
+For an example think about the fishbowl we had on 'self driving cars' in class.
 
 
-### Explain the origins of the method, who proposed it? 
-
-{ TODO }
-
-### Are there different flavours or variants? 
-
-<https://en.wikipedia.org/wiki/Fishbowl_(conversation)>
-
-open fishbowl (the one described above)
-only two chairs, audience member taps should of speaker to replace them
-full exchange of inner circle after set intervalls/when discussion runs out
-
-time limits 
-intervalls at which outer circle is asked for input instead of inner circle
-
+<!-- TODO move to general section
 ### In which paradigm does this method operate? 
-
 constructivist if used similar to a focus group to elaborate on personal experiences and discuss mental models but can also be critical theory in the sense that an action plan is formulated (even though world cafe/breakaway/barcamp/openspace+reporting probably deals better as finer points/sub-topics can be better discussed and more people have a chance to contribute due to the smaller effective group sizes / less anxiety about speaking in front of larger groups)
-
-### What are the most relevant theories?  
-
-huh?
-
-##  Use: 
-### Explain when to use it and how. 
-
-how: see/merge with idea
-
-when: 
-
-* want to tap knowledge/points of view/mental models of large group on an issue while giving people a place to retreat/just watch
-* collective memory (see focus groups)
-
-when not: if you want to have every persons opinion in the room. some people won't talk (and that's 'k)
-
-also see focus groups 
-
-{TODO 
-
-### What data does it produce?  
-
-audio-/video-recordings, transcripts, notes
-
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
-
-General Challenges (from slides):
 
 * Logistics - more people, more constraints 
 * Managing Space 
 * Moderation
-
-## Example
-
-{TODO} Provide a short example from the literature 
-
-fishbowl we did on self-driving cars? the one(s) at klausur?
-
 -->
 
 # World Cafe 
