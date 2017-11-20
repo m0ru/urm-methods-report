@@ -258,7 +258,11 @@ Challenges (from slides):
 * Managing Space 
 * Moderation
 -->
+
 # Bar Camp 
+
+
+[![sessionplan of barcamp graz 2017](figures/barcamp_whiteboard.jpg)](http://barcamp-graz.at/2017/04/so-schaut-der-sessionplan-vom-ersten-barcamp-tag-aus/)
 
 <!-- 
 
@@ -299,7 +303,6 @@ as it's an (un)conference format you need to have at least one, ideally several 
 
 planning session^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] every morning. people write topics of sessions on pieces of paper, and e.g. assign them to time slots and rooms on a (moveable) corkboard = physical session plan. usually there's also digital variant for ease of access if you're somewhere else in the building (then again the physical thing is good place to get into conversations with people)
 
-![barcamp agenda]
 sessions can be anything, e.g. talks, discussions, hands-on workshops, leisure time (barcamp graz 2017 had a floor excercise and a board-games session)
 
 good to meet people from all possible (sub-)fields (related to the main field if any; e.g. *ux*camp vs completely open @ graz)
