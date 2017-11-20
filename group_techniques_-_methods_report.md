@@ -258,8 +258,78 @@ Challenges (from slides):
 * Managing Space 
 * Moderation
 -->
+# Bar Camp 
+
+<!-- 
+
+## Introduction
+### What is the core idea?  
+
+unconference. reaction/critique/subversion of large conferences with fixed agenda and minimal interactivity
+
+can have overarching themes (uxcamp, suggested tracks in barcamp graz) but otherwise is rather free
+
+strong sense of contribution. e.g. "if this is your first barcamp, you have to talk."
 
 
+### Explain the origins of the method, who proposed it? 
+
+{TODO}
+
+### Are there different flavours or variants? 
+
+{TODO}
+hybrid with regular conference (e.g. uxcamp with one fixed track / skeleton agenda and one free track/free slots all through the day that use the barcamp mode. allows people to choose style and thus usually also interactivity and group size. allows last minute submissions. allows room for discussion without fully abandoning pre-planned talk by experts)
+
+### In which paradigm does this method operate? 
+
+critical theory?
+is a critique / method aimed at breaking up rigid conference structures. can be used to discuss issues / make action plans in different time-slots. about knw and experience transfer between particpants.
+
+### What are the most relevant theories?  
+
+?
+
+##  Use: 
+### Explain when to use it and how. 
+
+as it's an (un)conference format you need to have at least one, ideally several rooms (with different, rearrangable seating arrangments and ambiences suited for different session-types), (probably) registration and ideally catering, after hours activities, etc
+
+planning session^[barcamp graz 2017 - video of (sparsely attended) planning session on sunday: <https://www.youtube.com/watch?v=IF4y63whodg>] every morning. people write topics of sessions on pieces of paper, and e.g. assign them to time slots and rooms on a (moveable) corkboard = physical agenda. usually there's also digital variant for ease of access if you're somewhere else in the building (then again the physical thing is good place to get into conversations with people)
+
+![barcamp agenda]
+sessions can be anything, e.g. talks, discussions, hands-on workshops, leisure time (barcamp graz 2017 had a floor excercise and a board-games session)
+
+good to meet people from all possible (sub-)fields (related to the main field if any; e.g. *ux*camp vs completely open @ graz)
+
+individual session can be used by participants as plattform to get and give feedback / discussion of projects/issues they're researching in a way similar to any of the other group techniques. it's more about equal sharing and contributing though.
+
+### What data does it produce?  
+
+not intended as data collection method but as forum
+
+audio-/video-recordings (unusual), transcripts, notes, posters (rare but possible), tweets, follow-up contacts,... (especially if running a discussion 
+
+
+more knw for participants
+
+##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
+
+see when and how
+
+General Challenges (from slides):
+
+* Logistics - more people, more constraints 
+* Managing Space 
+* Moderation
+
+## Example
+
+Provide a short example from the literature 
+
+[blog on barcamp graz 2017](http://barcamp-graz.at/blog/)
+
+-->
 
 # Example
 <!--
