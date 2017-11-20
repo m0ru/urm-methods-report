@@ -146,67 +146,21 @@ constructivist if used similar to a focus group to elaborate on personal experie
 [![world cafe principles](figures/world-cafe-puzzle.jpg){ height=200px }](http://rhizome.coop/facilitating-meetings-middle-game/) 
 [![world cafe tables](figures/world-cafe-tables.png){ height=200px }](https://bcpslis.pbworks.com/w/page/107744660/World%20Cafe%20Model)
 
-<!-- 
-<http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/>
-<http://www.worldcafe.eu/en/index.html>
-"World Cafe Guidelines & Principles" on youtube by OurEllipses (2009/08):<https://www.youtube.com/watch?v=YrTKD8NpApY>
+The goal is to discuss complicated issues (and come with up with an action plan) by synthesing as many people's viewpoints as possible. The setup has multiple tables spread around a room, e.g. one per sub-topic or general approach. The tables are covered in paper so people can write on them. The session starts off with an optional talk that introduces the topic (if necessary). People then discuss on their table and draw/write on the paper. After a while everyone but one person
+per table switches to a different table. The person who's stayed introduces that tables discussion progress to the new group. Thus people can inspire each other, there's a certain continuity to each table's discussion, everyone get's involved and has room to speak, but the discussion groups stay small and well suited to casual, involved and stress-free discussion. Optionally at the end, each tables "host" reports it's discussion's results back to the plenum.
 
-//\[![](figures/World-Cafe-Guidelines.jpg)](http://amandafenton.com/core-methods/what-is-a-world-cafe/world-cafe-guidelines/)
+This method works for groups of medium (15+) to very large sizes (up to several hundred persons). 
 
-## Introduction
-### What is the core idea?  
+The host's reports (potentially recorded), any collectively agreed outcome/action and the drawing and writing on the tables can later be used for analysis. However the former one's as well as the intrinsic personal gains from the discssions for people participating in the process are an end by and in themselves in my opinion.
 
-discuss a complicated issue, usually with the goal of coming up with an action plan. a large focus is on providing a inviting, casual, cafe-like ambience. there's multiple tables e.g. one per sub-topic, covered in paper (so they can be written upon) and a person staying there. the rest of the people switch through. the person who stayed behind gives an overview of the discussion on the table so far. the paper allows participants to leave messages in their own words and drawings.
-usually the table hosts will report back to the larger plenum at the end. there might also be an introductionary talk at the start.
+Historically the method resulted from a 1995 meeting of business persons and academics at the home of Juanita Brown and David Isaacs in California. Their plan for large-circle meeting was disrupted by rain and they split up to tables that accidentally had makeshift tablecloths they could write/draw on. Thus the method was discovered/invented.
 
-works at varying sizes
+**References:**
 
-### Explain the origins of the method, who proposed it? 
+* <http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/>
+* <http://www.worldcafe.eu/en/index.html>
+* "World Cafe Guidelines & Principles" on youtube by OurEllipses (2009/08):<https://www.youtube.com/watch?v=YrTKD8NpApY>
 
-<http://www.theworldcafe.com/about-us/history/>
-
-1995 meeting of business persons and academics the home of Juanita Brown and David Isaacs in California. plan for large-circle meeting was disrupted by rain and they split up. recording insights on makeshift tablecloths.
-
-### Are there different flavours or variants? 
-
-one without reporting back (focus on discussion not outcomes)
-
-### In which paradigm does this method operate? 
-
-constructivist (understanding mental models of larger group) / critical theory (action plan)
-### What are the most relevant theories?  
-
-##  Use: 
-### Explain when to use it and how. 
-### What data does it produce?  
-
-recordings of reporting back (if any), notes on tables
-
-##  Advantages and Disadvantages: Explain what the biggest advantages and disadvantages of this method are 
-
-very inclusive due to small table sizes and effort made to set ambience (if done right; easy to do wrong)
-
-good for complex issues: small size makes discussions productive but due to rotation knw of entire crowd is tapped
-
-good deliberate for making collective action plans in a larger group
-
-same as all group methods: collaborative knw, etc
-
-important to set ambience and have diverse crowd!
-
-General Challenges (from slides):
-
-* Logistics - more people, more constraints 
-* Managing Space 
-* Moderation
-
-## Example
-
-Provide a short example from the literature 
-
-world cafe at EYA?
-
--->
 
 # Breakout Sessions 
 <!-- 
