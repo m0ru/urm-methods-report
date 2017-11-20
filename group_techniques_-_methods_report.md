@@ -1,4 +1,4 @@
-% Group Techniques (Methods Report)
+% Group Techniques
 % Kevin Singer (1028092)
 % 19.11.2017
 
