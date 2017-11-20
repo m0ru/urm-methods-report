@@ -74,7 +74,7 @@ do proper literature research for the six <!-- TODO!!! correct if less --> metho
 Also, I didn't manage to convert all notes into full prose. To see the notes you can go here: <https://raw.githubusercontent.com/m0ru/urm-methods-report/master/group_techniques_-_methods_report.md>
 
 With that out of the way and without further ado: Group Techniques.  
-As this is more a category of loosely connected methods formulated for very different reaons in different situations, I'll go over <!--TODO (some of) --> the ones mentioned in the lecture slides one by one and try to compare them in the process<!-- TODO!!!! did i actually do that? -->. The methods are as follows:
+As this is more a category of loosely connected methods formulated for very different reaons in different situations, I'll go over the ones mentioned in the lecture slides one by one and try to compare them in the process. The methods are as follows:
 
 * Focus Groups 
 * Fishbowl 
