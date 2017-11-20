@@ -84,6 +84,8 @@ As this is more a category of loosely connected methods formulated for very diff
 
 # Focus Groups 
 
+[![focus group](figures/focus_group.jpg){ height=200px }](https://commons.wikimedia.org/wiki/File:Focus_Groups,_National_Network_Meetings,_GINKS_IMG_3920_\(5348319263\).jpg)
+
 
 <!-- 
 <https://www.nngroup.com/articles/focus-groups/>
